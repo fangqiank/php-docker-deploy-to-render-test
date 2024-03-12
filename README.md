@@ -2,26 +2,6 @@
 ## A Step-by-Step Guide
 ---
 
-### Author Links
-
-👋 Hello, I'm Dave Gray.
-
-📚 [My Courses](https://courses.davegray.codes/)
-
-✅ [Check out my YouTube Channel with hundreds of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
-
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
-
-💖 [Support My Content](https://patreon.com/davegray)
-
-🚀 Follow Me:
-
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://davegray.codes)
-
----
-
 ### Description
 
 📺 [YouTube Video](https://youtu.be/NL23_cVq6XI) for this repository.
